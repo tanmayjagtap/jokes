@@ -1,6 +1,6 @@
 {
   "name": "jokes",
-  "homepage": "https://tanmayjagtap.github.io/jokes_app",
+  "homepage": "https://tanmayjagtap.github.io/jokes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
